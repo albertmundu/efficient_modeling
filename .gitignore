@@ -1,7 +1,9 @@
 .env
-.sampleSubmission.csv
+sampleSubmission.csv
 *.ipynb
 data_parquet
 data
 checkpoints
+lightning_logs
+
 
