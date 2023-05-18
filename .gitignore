@@ -1,0 +1,7 @@
+.env
+.sampleSubmission.csv
+*.ipynb
+data_parquet
+data
+checkpoints
+
